@@ -25,6 +25,23 @@
       minima hic ipsum id odio repudiandae, ratione ab
     , harum corporis facilis, dolore sapiente quos sit.
     </p>
+
+    <hr class='col-md-6 bg-dark'>
+    <h5 class="font-italic text-center">commentaire sur le confinement</h5>
+    <form method='post'>
+
+    <div class="form-group">
+    <label for="email">email</label>
+    <input type="email" class='form-control' id='email' name='email' aria-describedby='emailHelp'>
+    </div>
+
+    <div class="form-group">
+    <label for="message">message</label>
+    <textarea name="message" id="message" rows="10"></textarea>
+    </div>
+  <button type='submit' class='btn btn-dark'>envoyer</button>
+    
+    </form>
     </div>
 </body>
 
