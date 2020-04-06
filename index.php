@@ -43,6 +43,10 @@
   <button type='submit' class='btn btn-dark'>envoyer</button>
     
     </form>
+    <li class="form-group">1</li>
+    <li class="form-group">1</li>
+    <li class="form-group">1</li>
+    <li class="form-group">1</li>
     </div>
 </body>
 
