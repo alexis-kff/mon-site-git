@@ -27,6 +27,7 @@
     </p>
 
     <hr class='col-md-6 bg-dark'>
+    <h1 class='text-center'>essai</h1>
     <h5 class="font-italic text-center">commentaire sur le confinement</h5>
     <form method='post'>
 
