@@ -8,7 +8,24 @@
     <title>mon-site-git</title>
 </head>
 <body>
+
 <h1 class='col-md-8 mx-auto display-4 alert alert-danger mt-3'>Plein le cul du confinement !!!</h1>
-    
+<div class="container">   
+    <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+     Dignissimos odit neque earum aperiam labore deserunt
+      minima hic ipsum id odio repudiandae, ratione ab
+    , harum corporis facilis, dolore sapiente quos sit.
+    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+     Dignissimos odit neque earum aperiam labore deserunt
+      minima hic ipsum id odio repudiandae, ratione ab
+    , harum corporis facilis, dolore sapiente quos sit.
+    Lorem ipsum dolor sit amet consectetur adipisicing elit.
+     Dignissimos odit neque earum aperiam labore deserunt
+      minima hic ipsum id odio repudiandae, ratione ab
+    , harum corporis facilis, dolore sapiente quos sit.
+    </p>
+    </div>
 </body>
+
 </html>
